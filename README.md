@@ -59,6 +59,6 @@ funding-application/
 
 ## Contact
 For any issues or improvements, please reach out to:
-- Email: gopiyo77@gmail.com
+- Email: luisconstancio200gmail.com
 - CC: izakonyach@gmail.com
 
